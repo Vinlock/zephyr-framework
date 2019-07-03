@@ -1,5 +1,10 @@
 # Zephyr API + Admin
 
+## What is Zephyr?
+Zephyr is an API/Admin Framework for developers to serve a RESTful and/or GraphQL Interface based on a straight-forward API. It brings together the latest technologies and their speed to give you this functionality.  
+
+Dependent on [Fastify](https://github.com/fastify/fastify) for API, [Pino](https://github.com/pinojs/pino) for logging, [Axios](https://github.com/axios/axios) for external calls, and [GatsbyJS](https://github.com/gatsbyjs/gatsby) for the admin panel.   
+
 ## Installation
 ```bash
 yarn add zephyr-framework
