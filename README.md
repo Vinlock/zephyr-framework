@@ -35,3 +35,6 @@ startAdmin({
   console.log('Server has started.');
 });
 ```
+
+## To be implemented
+- https://www.apollographql.com/docs/graphql-tools/remote-schemas/#makeremoteexecutableschemaoptions
